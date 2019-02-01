@@ -1,0 +1,23 @@
+{
+  "name": "Pluralsight-Login-Page-Clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganchoiliev/Pluralsight-Login-Page-Clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganchoiliev/Pluralsight-Login-Page-Clone/issues"
+  },
+  "homepage": "https://ganchoiliev.github.io/Pluralsight-Login-Page-Clone/",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

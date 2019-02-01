@@ -33,6 +33,7 @@ h6 {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  margin-top: 2vh;
 }
 
 #right {
@@ -46,16 +47,16 @@ h6 {
   justify-content: center;
   align-items: center;
   width: 80%;
-  padding-bottom: 1rem;
+  padding-bottom: 1vh;
 }
 
 #singin form {
   width: 80%;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
 }
 
 #signin .logo {
-  margin-bottom: 8vh;
+  margin-bottom: 5vh;
 }
 
 #signin .logo img {
@@ -105,7 +106,7 @@ h6 {
 #signin .or {
   display: flex;
   flex-direction: row;
-  margin-bottom: 1.2rem;
+  margin-bottom: 0.5rem;
   align-items: center;
 }
 
@@ -150,6 +151,7 @@ h6 {
   font-size: 0.8rem;
   max-width: 80%;
   padding-top: 5rem;
+  margin-top: -15vh;
 }
 
 #main-footer a {
@@ -190,7 +192,7 @@ h6 {
   text-decoration: none;
   cursor: pointer;
   text-align: center;
-  margin-bottom: 8vh;
+  margin-bottom: 3vh;
   transition: all 0.5s;
 }
 
